@@ -23,7 +23,7 @@ Description: |
       Homepage: https://pypi.org/project/argcomplete/
     %endif
 
-SetupOptions: '-q -n %{name}-%{version}'
+SetupOptions: '-q -n %{name}-%{version}/upstream'
 BuildArch: noarch
 Configure: none
 Builder: python3
