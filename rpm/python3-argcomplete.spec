@@ -7,7 +7,6 @@ Name:       python3-argcomplete
 
 # >> macros
 # << macros
-%define int_name argcomplete
 
 Summary:    Tab complete all the things!
 Version:    2.0.0
@@ -39,7 +38,7 @@ Url:
 
 
 %prep
-%setup -q -n %{int_name}-%{version}
+%setup -q -n %{name}-%{version}
 
 # >> setup
 # << setup
