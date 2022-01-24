@@ -16,7 +16,7 @@ Group:      Applications
 License:    Apache-2.0
 BuildArch:  noarch
 URL:        https://pypi.org/project/argcomplete/
-Source0:    https://files.pythonhosted.org/packages/a/%{int_name}/%{int_name}-%{version}.tar.gz
+Source0:    %{name}-%{version}.tar.gz
 Source100:  python3-argcomplete.yaml
 BuildRequires:  pkgconfig(python)
 BuildRequires:  python3-rpm-macros
