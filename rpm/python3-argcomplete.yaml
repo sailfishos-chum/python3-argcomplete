@@ -14,7 +14,6 @@ Description: |
 
     %if "%{?vendor}" == "chum"
     PackageName: argcomplete
-    Type: console-application
     Categories:
      - Library
     Custom:

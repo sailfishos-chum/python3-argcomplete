@@ -27,7 +27,6 @@ arguments for your Python script.
 
 %if "%{?vendor}" == "chum"
 PackageName: argcomplete
-Type: console-application
 Categories:
  - Library
 Custom:
