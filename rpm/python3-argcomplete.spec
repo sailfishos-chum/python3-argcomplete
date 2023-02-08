@@ -12,7 +12,7 @@ Summary:    Tab complete all the things!
 Version:    2.0.0
 Release:    0
 Group:      Applications
-License:    Apache-2.0
+License:    ASL 2.0
 BuildArch:  noarch
 URL:        https://pypi.org/project/argcomplete/
 Source0:    %{name}-%{version}.tar.gz
