@@ -5,6 +5,7 @@ Release: 0
 Group: Applications
 License: ASL 2.0
 URL: https://pypi.org/project/argcomplete/
+SCM: https://github.com/kislyuk/argcomplete
 Sources:
     - '%{name}-%{version}.tar.gz'
 Description: |
@@ -18,6 +19,7 @@ Description: |
      - Library
     Custom:
       PackagingRepo: https://github.com/sailfishos-chum/python3-argcomplete
+      Repo: https://github.com/kislyuk/argcomplete
     Url:
       Homepage: https://pypi.org/project/argcomplete/
     %endif

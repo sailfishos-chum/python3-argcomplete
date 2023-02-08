@@ -31,6 +31,7 @@ Categories:
  - Library
 Custom:
   PackagingRepo: https://github.com/sailfishos-chum/python3-argcomplete
+  Repo: https://github.com/kislyuk/argcomplete
 Url:
   Homepage: https://pypi.org/project/argcomplete/
 %endif
