@@ -9,7 +9,7 @@ Name:       python3-argcomplete
 # << macros
 
 Summary:    Tab complete all the things!
-Version:    2.0.0
+Version:    3.2.2
 Release:    0
 Group:      Applications
 License:    ASL 2.0
